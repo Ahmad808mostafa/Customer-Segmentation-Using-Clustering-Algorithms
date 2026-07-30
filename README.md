@@ -124,21 +124,6 @@ The identified customer segments can support:
 
 ---
 
-## Repository Structure
-Plain text
-
-├── Customer_Segmentation_Clustering_Comparison.ipynb
-├── README.md
-├── images/
-│   ├── pca.png
-│   ├── heatmap.png
-│   ├── cluster_distribution.png
-│   ├── spending_distribution.png
-│   ├── income_distribution.png
-│   ├── age_distribution.png
-│   ├── customer_seniority.png
-│   └── parallel_coordinates.png
----
 
 ## Future Improvements
 
